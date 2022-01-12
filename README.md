@@ -12,8 +12,9 @@
 
 ### My favorite programming languages
 
-<img align="left" alt="CSS3" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/css3.png?raw=true" />
-<img align="left" alt="Bash" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/bash.png?raw=true" />
+![CSS3](https://github.com/attentiveDev/attentiveDev/blob/main/images/css3.png?raw=true | width=64)
+![Bash](https://github.com/attentiveDev/attentiveDev/blob/main/images/bash.png?raw=true | width=64)
+
 
 <br />
 
