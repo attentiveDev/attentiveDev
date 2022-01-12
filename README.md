@@ -4,4 +4,4 @@
 
 ### Get connected
 
-[<img align="left" alt="codeSTACKr.com" width="128px" src="https://raw.githubusercontent.com/attentiveDev/attentiveDev/main/images/linkedin.png" />][LinkedIn]
+[<img align="left" alt="Linkedin" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/linkedin.png?raw=true" />][linkedin]
