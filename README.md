@@ -31,5 +31,5 @@
 <img alt="Amazon Web Service" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/aws.png?raw=true" />
 
 [linkedin]: https://de.linkedin.com/in/sven-sonntag-hh
-[website]: https://www.solution-developer
+[website]: https://www.solution-developer.de
 [xing]: https://www.xing.com/profile/Sven_Sonntag5
