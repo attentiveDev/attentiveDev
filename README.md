@@ -4,7 +4,7 @@
 
 ## About me
 
-Since I have always been enthusiastic about computers I taked a training as a PC service and network technician in the mid-90s. During my many years of work as a freelancer, I then joined a project where a project manager urgently needed to improve communication between customers and the developer. As part of this personal development, I got into software development. For the next few years this was limited to FileMaker applications and the installation and maintenance of various websites (Wordpress, Joomla, etc.).
+Since I have always been enthusiastic about computers, I took a training as a PC service and network technician in the mid-90s. During my many years of work as a freelancer, I then joined a project where a project manager urgently needed to improve communication between customers and the developer. As part of this personal development, I got into software development. For the next few years this was limited to FileMaker applications and the installation and maintenance of various websites (Wordpress, Joomla, etc.).
 
 Then in 2016 I did a 6.5-month training course to become a web developer, which also included certification as a Zend Certified PHP Engineer and a Microsoft Specialist in HTML5 with Javascript and CSS3.
 
