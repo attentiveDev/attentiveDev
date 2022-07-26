@@ -1,35 +1,26 @@
-# Hey GitHub, I'm Sven - an attentive developer
+# Hey GitHub, my name is Sven - I see myself as a attentive developer.
 
-## Based in Hamburg Germany I am working as a professionl web developer
+## I work from Hamburg as a professional web developer with a focus on PHP.
 
-### Get connected
+## About me
 
-[<img align="left" alt="Website" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/website.png?raw=true" />][website]
-[<img align="left" alt="Linkedin" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/linkedin.png?raw=true" />][linkedin]
-[<img alt="Xing" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/xing.png?raw=true" />][xing]
+Since I have always been enthusiastic about computers I taked a training as a PC service and network technician in the mid-90s. During my many years of work as a freelancer, I then joined a project where a project manager urgently needed to improve communication between customers and the developer. As part of this personal development, I got into software development. For the next few years this was limited to FileMaker applications and the installation and maintenance of various websites (Wordpress, Joomla, etc.).
 
-### My favorite programming languages
+Then in 2016 I did a 6.5-month training course to become a web developer, which also included certification as a Zend Certified PHP Engineer and a Microsoft Specialist in HTML5 with Javascript and CSS3.
 
-<img align="left" alt="CSS3" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/css3.png?raw=true" />
-<img alt="Bash" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/bash.png?raw=true" />
+Since then, I have been able to gain a lot of experience in different areas. These include e.g., extension of Magento 2 E-Commerce Systems, Laravel and Symfony applications but also various deployment systems such as Jenkins, Drone or GitHub Actions.
 
+During my one and a half year time at a large mobile phone company, I could also expand my frontend knowledge with Angular, NX, Storybook and Tailwind CSS.
 
-### My favorite frameworks
+I am currently working at a university with a focus on PHP and Symfony.
 
-<img alt="Angular" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/angular.png?raw=true" />
+## Miscellaneous
 
+In my free time, I am very interested in mindfulness and Buddhist philosophy, and I am also interested in music and photography.
 
-### world best toolset (in my opinion)
+## Contact info and more
 
-<img align="left" alt="GIT" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/git.png?raw=true" />
-<img alt="GitHub" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/github.png?raw=true" />
-
-
-### often used services
-
-<img align="left" alt="Apache HTTP Server" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/apache_http.png?raw=true" />
-<img alt="Amazon Web Service" width="64px" src="https://github.com/attentiveDev/attentiveDev/blob/main/images/aws.png?raw=true" />
-
-[linkedin]: https://de.linkedin.com/in/sven-sonntag-hh
-[website]: https://www.solution-developer.de
-[xing]: https://www.xing.com/profile/Sven_Sonntag5
+- Just write me an email to info@attentive-development.de
+- My [Linkedin](https://de.linkedin.com/in/sven-sonntag-hh) Profile
+- Me at [Xing](https://www.xing.com/profile/Sven_Sonntag5)
+- I also have a [Twitter](https://twitter.com/attentiveDev) account
