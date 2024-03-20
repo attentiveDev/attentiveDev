@@ -22,4 +22,3 @@ In my free time, I am very interested in mindfulness and Buddhist philosophy, an
 
 - Just write me an email to info@attentive-development.de
 - My [Linkedin](https://de.linkedin.com/in/sven-sonntag-hh) Profile
-- Me at [Xing](https://www.xing.com/profile/Sven_Sonntag5)
