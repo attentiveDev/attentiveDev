@@ -1,4 +1,4 @@
-# Hey GitHub, my name is Sven - I see myself as a attentive developer.
+# Hey GitHub, my name is Sven - I see myself as an attentive developer.
 
 ## I work from Hamburg as a professional web developer with a focus on PHP.
 
